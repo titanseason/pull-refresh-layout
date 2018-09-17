@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">swipe-refresh-layout</string>
+    <string name="prl_default_impl">Default implement</string>
+</resources>

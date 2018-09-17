@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="prl_header_pull_to_refresh">Pull to refresh</string>
+    <string name="prl_header_release_to_load">Release to load</string>
+    <string name="prl_header_loading">Loading</string>
+    <string name="prl_header_load_complete">Load complete</string>
+
+</resources>

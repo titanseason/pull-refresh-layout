@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="PullRefreshLayout">
+        <!-- true to enable header refresh, default true -->
+        <attr name="prl_headerEnabled" format="boolean" />
+
+        <!-- true to enable footer refresh, default false -->
+        <attr name="prl_footerEnabled" format="boolean" />
+
+    </declare-styleable>
+
+</resources>
